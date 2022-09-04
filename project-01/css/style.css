@@ -1,0 +1,33 @@
+*{
+    background-color: blueviolet;
+    margin:0%;
+    padding:0%;
+}
+ .color{ 
+    color:aqua;
+}
+.font{ 
+    font-size:25px;
+}
+input {
+    background-color: aqua;
+    padding: 5px;
+    border: 1px solid;
+    margin: auto;
+  }
+/* .color, input, #heading-one{
+    color:red;
+    
+}  */
+
+
+p{
+    background-color: Tomato;
+}
+.heading {
+    font-family: sans-serif;
+    background-color: mediumseagreen;
+    padding: 20px;
+    border: 2px solid;
+    margin: auto;
+  }
